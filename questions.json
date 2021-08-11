@@ -38,7 +38,7 @@
     "answer2": "a52",
     "answer3": "a53",
     "answer4": "a54",
-    "rightAnswer": "answer5"
+    "rightAnswer": "answer1"
   },
   {
   "question": "Soru 6",
@@ -46,6 +46,6 @@
     "answer2": "a62",
     "answer3": "a63",
     "answer4": "a64",
-    "rightAnswer": "answer6"
+    "rightAnswer": "answer2"
   }
 ]
