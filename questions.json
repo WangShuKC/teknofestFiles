@@ -47,5 +47,29 @@
     "answer3": "a63",
     "answer4": "a64",
     "rightAnswer": "answer2"
+  },
+    {
+  "question": "Soru 7",
+    "answer1": "a71",
+    "answer2": "a72",
+    "answer3": "a73",
+    "answer4": "a74",
+    "rightAnswer": "answer3"
+  },
+    {
+  "question": "Soru 8",
+    "answer1": "a81",
+    "answer2": "a82",
+    "answer3": "a83",
+    "answer4": "a84",
+    "rightAnswer": "answer4"
+  },
+    {
+  "question": "Soru 9",
+    "answer1": "a91",
+    "answer2": "a92",
+    "answer3": "a93",
+    "answer4": "a94",
+    "rightAnswer": "answer1"
   }
 ]
