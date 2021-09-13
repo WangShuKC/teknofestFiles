@@ -81,163 +81,133 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 11",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  "question": "Aşağıdaki terimlerden hangisi bir veriden temsili bir alt küme çıkarmak için kullanlan istatistiksel bir analiz tekniğidir?",
+    "answer1": "Veri sadeleştirme",
+    "answer2": "Veri seti",
+    "answer3": "Bucketing",
+    "answer4": "Sınıflandırma",
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 12",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  "question": "Aşağıdaki terimlerden hangisi bir kaynaktan gelen bir kesişme veya offset anlamına gelmektedir?",
+    "answer1": "Bias",
+    "answer2": "Sınıflandırma",
+    "answer3": "Bucketing",
+    "answer4": "Batch",
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 13",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  "question": "Aşağdıakilerden hangisi makine öğrenmesi modeli inşaa edilirken geçilen aşamalardan biri değildir?",
+    "answer1": "Modelin bozulması",
+    "answer2": "Modelin tasarlanması",
+    "answer3": "Modelin test edilmesi",
+    "answer4": "Modelin uygulanması",
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 14",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  {
+    "question": "Bilgisayarların veri türlerine bağlı öğrenimini mümkün kılan algoritmaların tasarım ve geliştirme süreçlerini konu edinen bilim dalı aşağıdakilerden hangisidir?",
+    "answer1": "Makine Öğrenimi",
+    "answer2": "Yapay Zeka",
+    "answer3": "Görüntü İşleme",
+    "answer4": "Sinir Ağı",
+    "rightAnswer": "answer1"
+
+  },
+  {
+    "question": "Makine öğrenimi terimi, hangi yılda icat edilmiştir?",
+    "answer1": "1955",
+    "answer2": "1959",
+    "answer3": "1958",
+    "answer4": "1960",
+    "rightAnswer": "answer2"
+  },
+  {
+    "question": "Makine öğrenimi terimini icat eden, bilgisayar oyunları ve yapay zeka alanında öncü aynı zamanda bir IBMer olan Amerikalı kişi kimdir?",
+    "answer1": "Alan Turing",
+    "answer2": "Steve Jobs",
+    "answer3": "Artur Samuel",
+    "answer4": "Bill Gates",
+    "rightAnswer": "answer3"
+  },
+  {
+"question": "Makine öğrenimi algoritmalarından hangisi, girdileri hedef çıktılara eşleyen bir işlev üretmektedir?",
+    "answer1": "Gözetimsiz öğrenme",
+    "answer2": "Pekiştirmeli öğrenme",
+    "answer3": "Pekiştirmesiz öğrenme",
+    "answer4": "Gözetimli öğrenme",
+    "rightAnswer": "answer4"
+  },
+  {
+   "question": "Günümüz modern makine öğreniminin iki ana amacı nedir?",
+    "answer1": "Sınıflandırma ve tahminleme",
+    "answer2": "Sınıflandırma ve biriktirme",
+    "answer3": "Tahminleme ve biriktirme",
+    "answer4": "Veri sadeleştirme ve sınıflandırma",
+    "rightAnswer": "answer1"
+  },
+  {
+  "question": "Makine öğrenimi algoritmalarından hangisi, bir girdi kümesi modeller?",
+    "answer1": "Gözetimli öğrenme",
+    "answer2": "Gözetimsiz öğrenme",
+    "answer3": "Pekiştirmeli öğrenme",
+    "answer4": "Öğrenmeyi öğrenme",
+    "rightAnswer": "answer2"
+  },
+    {
+  "question": "Makine öğrenimi algoritmalarından hangisi, bir ortamda en yüksek ödül miktarına ulaşabilmesi için hangi eylemleri yapması gerektiğiyle ilgilenmektedir?",
+    "answer1": "Gözetimli öğrenme",
+    "answer2": "Gözetimsiz öğrenme",
+    "answer3": "Pekiştirmeli öğrenme",
+    "answer4": "Yarı gözetimli öğrenme",
+    "rightAnswer": "answer3"
+  },
+    {
+  "question": "Makine öğrenimi algoritmalarından hangisi, uygun işlev ya da sınıflandırıcılar oluşturmak için etiketli ve etiketsiz örnekleri birlikte ele almaktadır?",
+    "answer1": "Gözetimli öğrenme",
+    "answer2": "Gözetimsiz öğrenme",
+    "answer3": "Pekiştirmeli öğrenme",
+    "answer4": "Yarı gözetimli öğrenme",
+    "rightAnswer": "answer4"
+  },
+    {
+  "question": "Makine öğrenimi algoritmalarından hangisi, önceki deneyimlerden yararlanarak öğrenmeyi sağlamaktadır?",
+    "answer1": "Öğrenmeyi öğrenme",
+    "answer2": "Gözetimli öğrenme",
+    "answer3": "Gözetimsiz öğrenme",
+    "answer4": "Pekiştirmeli öğrenme",
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 15",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  "question": "Aşağıdaki terimlerden hangisi model eğitiminin bir yinelemede kullanılan örnek kümesi anlamına gelmektedir?",
+    "answer1": "Batch",
+    "answer2": "Batch size",
+    "answer3": "Baseline",
+    "answer4": "Bucketing",
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 16",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  "question": "Aşağıdaki terimlerden hangisi bir veriden temsili bir alt küme çıkarmak için kullanlan istatistiksel bir analiz tekniğidir?",
+    "answer1": "Veri sadeleştirme",
+    "answer2": "Veri seti",
+    "answer3": "Bucketing",
+    "answer4": "Sınıflandırma",
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 17",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  "question": "Aşağıdaki terimlerden hangisi bir kaynaktan gelen bir kesişme veya offset anlamına gelmektedir?",
+    "answer1": "Bias",
+    "answer2": "Sınıflandırma",
+    "answer3": "Bucketing",
+    "answer4": "Batch",
     "rightAnswer": "answer1"
   },
     {
-  "question": "Soru 18",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 19",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 20",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 21",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 22",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 23",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 24",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 25",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 26",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 27",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 28",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 29",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
-    "rightAnswer": "answer1"
-  },
-    {
-  "question": "Soru 30",
-    "answer1": "a91",
-    "answer2": "a92",
-    "answer3": "a93",
-    "answer4": "a94",
+  "question": "Aşağdıakilerden hangisi makine öğrenmesi modeli inşaa edilirken geçilen aşamalardan biri değildir?",
+    "answer1": "Modelin bozulması",
+    "answer2": "Modelin tasarlanması",
+    "answer3": "Modelin test edilmesi",
+    "answer4": "Modelin uygulanması",
     "rightAnswer": "answer1"
   }
   
