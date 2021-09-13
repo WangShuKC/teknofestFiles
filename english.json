@@ -25,7 +25,7 @@
     "rightAnswer": "answer3"
   },
   {
-"question": "Which of the machine learning algorithms produces a function that maps inputs to target outputs?",
+    "question": "Which of the machine learning algorithms produces a function that maps inputs to target outputs?",
     "answer1": "unsupervised learning",
     "answer2": "reinforcement learning",
     "answer3": "non-reinforcement learning",
@@ -49,7 +49,7 @@
     "rightAnswer": "answer2"
   },
     {
-  "question": "Which of the machine learning algorithms is concerned with what actions it must take in order to achieve the highest amount of reward in an environment?",
+    "question": "Which of the machine learning algorithms is concerned with what actions it must take in order to achieve the highest amount of reward in an environment?",
     "answer1": "supervised learning",
     "answer2": "unsupervised learning",
     "answer3": "reinforcement learning",
@@ -57,7 +57,7 @@
     "rightAnswer": "answer3"
   },
     {
-  "question": "Which of the machine learning algorithms considers labeled and unlabeled examples together to create appropriate functions or classifiers?",
+    "question": "Which of the machine learning algorithms considers labeled and unlabeled examples together to create appropriate functions or classifiers?",
     "answer1": "supervised learning",
     "answer2": "unsupervised learning",
     "answer3": "reinforcement learning",
@@ -65,7 +65,7 @@
     "rightAnswer": "answer4"
   },
     {
-  "question": "Which of the machine learning algorithms provides learning by making use of previous experiences?",
+    "question": "Which of the machine learning algorithms provides learning by making use of previous experiences?",
     "answer1": "learning to learn",
     "answer2": "supervised learning",
     "answer3": "unsupervised learning",
@@ -73,7 +73,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following terms refers to the sample set used in one iteration of model training?",
+    "question": "Which of the following terms refers to the sample set used in one iteration of model training?",
     "answer1": "Batch",
     "answer2": "Batch size",
     "answer3": "Baseline",
@@ -81,7 +81,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following terms is a statistical analysis technique used to extract a representative subset from a data?",
+    "question": "Which of the following terms is a statistical analysis technique used to extract a representative subset from a data?",
     "answer1": "Data sampling",
     "answer2": "Data set",
     "answer3": "Bucketing",
@@ -89,7 +89,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following terms refers to an intersection or offset from a source?",
+    "question": "Which of the following terms refers to an intersection or offset from a source?",
     "answer1": "Bias",
     "answer2": "Classification",
     "answer3": "Bucketing",
@@ -97,7 +97,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following is not one of the steps in building a machine learning model?",
+    "question": "Which of the following is not one of the steps in building a machine learning model?",
     "answer1": "Deterioration of the model",
     "answer2": "Designing the model",
     "answer3": "Testing the model",
@@ -131,7 +131,7 @@
     "rightAnswer": "answer3"
   },
   {
-"question": "Which of the machine learning algorithms produces a function that maps inputs to target outputs?",
+    "question": "Which of the machine learning algorithms produces a function that maps inputs to target outputs?",
     "answer1": "unsupervised learning",
     "answer2": "reinforcement learning",
     "answer3": "non-reinforcement learning",
@@ -147,7 +147,7 @@
     "rightAnswer": "answer1"
   },
   {
-  "question": "Which of the machine learning algorithms models an input set?",
+    "question": "Which of the machine learning algorithms models an input set?",
     "answer1": "supervised learning",
     "answer2": "unsupervised learning",
     "answer3": "reinforcement learning",
@@ -155,7 +155,7 @@
     "rightAnswer": "answer2"
   },
     {
-  "question": "Which of the machine learning algorithms is concerned with what actions it must take in order to achieve the highest amount of reward in an environment?",
+    "question": "Which of the machine learning algorithms is concerned with what actions it must take in order to achieve the highest amount of reward in an environment?",
     "answer1": "supervised learning",
     "answer2": "unsupervised learning",
     "answer3": "reinforcement learning",
@@ -163,7 +163,7 @@
     "rightAnswer": "answer3"
   },
     {
-  "question": "Which of the machine learning algorithms considers labeled and unlabeled examples together to create appropriate functions or classifiers?",
+    "question": "Which of the machine learning algorithms considers labeled and unlabeled examples together to create appropriate functions or classifiers?",
     "answer1": "supervised learning",
     "answer2": "unsupervised learning",
     "answer3": "reinforcement learning",
@@ -171,7 +171,7 @@
     "rightAnswer": "answer4"
   },
     {
-  "question": "Which of the machine learning algorithms provides learning by making use of previous experiences?",
+    "question": "Which of the machine learning algorithms provides learning by making use of previous experiences?",
     "answer1": "learning to learn",
     "answer2": "supervised learning",
     "answer3": "unsupervised learning",
@@ -179,7 +179,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following terms refers to the sample set used in one iteration of model training?",
+    "question": "Which of the following terms refers to the sample set used in one iteration of model training?",
     "answer1": "Batch",
     "answer2": "Batch size",
     "answer3": "Baseline",
@@ -187,7 +187,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following terms is a statistical analysis technique used to extract a representative subset from a data?",
+    "question": "Which of the following terms is a statistical analysis technique used to extract a representative subset from a data?",
     "answer1": "Data sampling",
     "answer2": "Data set",
     "answer3": "Bucketing",
@@ -195,7 +195,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following terms refers to an intersection or offset from a source?",
+    "question": "Which of the following terms refers to an intersection or offset from a source?",
     "answer1": "Bias",
     "answer2": "Classification",
     "answer3": "Bucketing",
@@ -203,7 +203,7 @@
     "rightAnswer": "answer1"
   },
     {
-  "question": "Which of the following is not one of the steps in building a machine learning model?",
+    "question": "Which of the following is not one of the steps in building a machine learning model?",
     "answer1": "Deterioration of the model",
     "answer2": "Designing the model",
     "answer3": "Testing the model",
